@@ -1,0 +1,21 @@
+body {
+    background-image: url('./assets/wallpaper.jpg');
+    color: white;
+    font-family: sans-serif;
+    
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+#hour {
+    font-size: 90px;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    vertical-align: bottom;
+}
